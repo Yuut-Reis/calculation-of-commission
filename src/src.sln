@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommissionCalculation", "CommissionCalculation\CommissionCalculation.csproj", "{592FF743-5530-45A9-B86C-29395D3FF7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommissionCalculation.Test", "CommissionCalculation.Test\CommissionCalculation.Test.csproj", "{4FDBCC92-35EC-42EF-ABE7-E3349B5ADC04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommissionCalculation.Test.Test", "CommissionCalculation.Test.Test\CommissionCalculation.Test.Test.csproj", "{32668DE3-6C7D-44AB-9DC7-8EE337F51FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592FF743-5530-45A9-B86C-29395D3FF7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592FF743-5530-45A9-B86C-29395D3FF7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592FF743-5530-45A9-B86C-29395D3FF7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592FF743-5530-45A9-B86C-29395D3FF7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDBCC92-35EC-42EF-ABE7-E3349B5ADC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDBCC92-35EC-42EF-ABE7-E3349B5ADC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDBCC92-35EC-42EF-ABE7-E3349B5ADC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDBCC92-35EC-42EF-ABE7-E3349B5ADC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32668DE3-6C7D-44AB-9DC7-8EE337F51FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32668DE3-6C7D-44AB-9DC7-8EE337F51FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32668DE3-6C7D-44AB-9DC7-8EE337F51FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32668DE3-6C7D-44AB-9DC7-8EE337F51FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82773886-96D7-493C-AC24-775784F084F4}
+	EndGlobalSection
+EndGlobal
