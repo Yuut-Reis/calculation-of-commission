@@ -12,6 +12,7 @@ public class CommissionCalculator
     public decimal PercentageBySales { get; set;}
     public void CalculateFinalSalary(decimal fixedSalary, int amountCarsSold, decimal totalSalesValue) 
     {
+        
         AmountCarsSold = amountCarsSold;
         TotalSalesValue = totalSalesValue;
         FixedSalary = fixedSalary;
