@@ -25,7 +25,7 @@ public class CommissionCalculator
   {
     System.Console.WriteLine($"O colaborador {contributorName} neste mês de {month} obteve o salário final de R${FinalSalary:N2} referente à:");
     System.Console.WriteLine($"SALARIO FIXO: R${FixedSalary:N2}");
-    System.Console.WriteLine($"TOTAL DE CARROS VENDIDOS:{AmountCarsSold}");
+    System.Console.WriteLine($"TOTAL DE CARROS VENDIDOS: {AmountCarsSold}");
     System.Console.WriteLine($"VALOR TOTAL DE VENDAS NO MÊS: R${TotalSalesValue:N2}");
     System.Console.WriteLine($"COMISSÃO POR CARROS VENDIDOS: R$<{CommissionPerCarSold:N2}");
     System.Console.WriteLine($"COMISSÃO DE 3% DO TOTAL DE VENDAS: R$<{PercentageBySales:N2}");
